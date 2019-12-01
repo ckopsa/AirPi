@@ -1,0 +1,3 @@
+[submodule "RPiPlay"]
+	path = RPiPlay
+	url = https://github.com/FD-/RPiPlay.git
